@@ -1,3 +1,8 @@
 *.env
 *.json
+!overrides.example.json
 *.js
+.venv/
+__pycache__/
+.pytest_cache/
+overrides.json

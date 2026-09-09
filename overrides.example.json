@@ -1,0 +1,15 @@
+{
+  "channels": {
+    "CHANNEL_ID": "always_keep"
+  },
+  "topic_preferences": {
+    "Technical Learning": "useful"
+  },
+  "playlist_destinations": {
+    "Technical Learning": "Learning Resources"
+  },
+  "unsubscribe_subscription_ids": [
+    "SUBSCRIPTION_ID_1",
+    "SUBSCRIPTION_ID_2"
+  ]
+}
